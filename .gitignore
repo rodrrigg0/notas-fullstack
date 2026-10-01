@@ -1,0 +1,11 @@
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
